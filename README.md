@@ -9,6 +9,8 @@ After installing dependencies, you should modify the `savePath` variable in `mai
 Then you can run the script with `node main.js`. It contains two functions: `readSave` and `writeSave`. The save data is in `save.json` after running `readSave`, and you can modify it to your liking. After that, you can run `writeSave` to write the modified data back to the save file.
 
 ## Disclaimer
-Code here is from the game(with some modifications to make it work without `puerts`). , and I don't own this code and copyright of the code belongs to the game' developer.
 
-Also, I'm not responsible for any damage caused by using this repository. It's for fair use only.
+> [!Caution]
+> Code here is mainly from the game (with some modifications to make it work without `puerts`).
+> I don't own any of this code and copyright all belongs to the game' developer.
+> Also, I'm not responsible for any damage caused by using this repository. It's for fair use only.
