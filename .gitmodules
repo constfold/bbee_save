@@ -1,0 +1,3 @@
+[submodule "node-lz4"]
+	path = node-lz4
+	url = https://github.com/constfold/node-lz4.git

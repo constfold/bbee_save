@@ -1,5 +1,5 @@
 const Buffer = require('buffer').Buffer
-const lz4 = require('lz4')
+const lz4 = require('./node-lz4')
 const pbdef_1 = require("./Gen/pbdef");
 const ProtobufTools_1 = require("./ProtobufTools");
 const ModelManager_1 = require("./Server/Model/ModelManager");
