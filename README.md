@@ -1,7 +1,7 @@
 # Blazblue Entropy Effect Save Editor
 This is a save editor for the amazing ACT game [Blazblue Entropy Effect](https://store.steampowered.com/app/2273430/BlazBlue_Entropy_Effect/).
 
-I noticed that there's another repository for save editing on GitHub, but it seems struggling with the protobuf format. So I decided to give it a try. And then it turns out that the protobuf definition is right in the game's JS land.
+I noticed that there's [another repository](https://github.com/justlovediaodiao/BlazblueEntropyEffectSaveEditor) for save editing of this game on GitHub, but it seems struggling with the protobuf format. After I decided to give it a try, luckily it turns out that the protobuf definition is right in the game's JS land. So here's this save editor.
 
 ## How to use
 Due to a bug of `node-lz4` library, you need to install [my fork](https://github.com/constfold/node-lz4) of it.
